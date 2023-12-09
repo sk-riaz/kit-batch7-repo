@@ -20,3 +20,6 @@ class Main {
     System.out.println("Sum is: " + result);
   }
 }
+#feature 201 is changes sip investments
+// calls the method
+addNumbers();
